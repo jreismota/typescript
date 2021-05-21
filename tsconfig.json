@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "ES5", // versão do type script
+        "module": "commonjs",
+        "sourceMap": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
